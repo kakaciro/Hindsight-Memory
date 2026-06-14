@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "hindsight-memory": {
+      "command": "python",
+      "args": [
+        "C:\\\\Users\\\\123\\\\plugins\\\\hindsight-memory\\\\scripts\\\\mcp_server.py"
+      ],
+      "env": {
+        "AGENTS_MD_PATH": "C:\\Users\\123\\.codex\\AGENTS.md"
+      }
+    }
+  }
+}

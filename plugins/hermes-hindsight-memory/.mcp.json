@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "hermes-hindsight-memory": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\123\\plugins\\hermes-hindsight-memory\\scripts\\mcp_server.py"
+      ],
+      "env": {
+        "HINDSIGHT_BANK_ID": "hermes",
+        "HINDSIGHT_FALLBACK_PATH": "C:\\Users\\123\\plugins\\hermes_hindsight_fallback.json",
+        "AGENTS_MD_PATH": "C:\\Users\\123\\.codex\\HERMES_AGENTS.md"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "hindsight-memory",
+  "version": "0.1.0+codex.20260606130409",
+  "description": "Hindsight Memory plugin",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Hindsight Memory",
+    "shortDescription": "Use Hindsight Memory in Codex.",
+    "longDescription": "Hindsight Memory adds a local Codex plugin scaffold.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me use Hindsight Memory."
+  },
+  "mcpServers": "./.mcp.json"
+}

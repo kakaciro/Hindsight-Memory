@@ -1,0 +1,19 @@
+{
+  "name": "hermes-hindsight-memory",
+  "version": "0.1.0+codex.20260608",
+  "description": "Hermes Hindsight Memory plugin",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Hermes Hindsight Memory",
+    "shortDescription": "Use isolated Hindsight Memory for Hermes.",
+    "longDescription": "Hermes Hindsight Memory provides an isolated hermes bank, fallback store, rule evolution, and maintenance tools.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me use Hermes Hindsight Memory."
+  },
+  "mcpServers": "./.mcp.json"
+}
